@@ -1,0 +1,39 @@
+{
+"SKIP_BUTTON": "Saltar",
+"BACK_BUTTON_TEXT" : "Atras",
+"EXIT_BUTTON" : "Salga",
+"CONTINUE_BUTTON": "Continue",
+"LIST_MASTER_TITLE": "Listado de Items Disponibles",
+"ITEM_CREATE_TITLE": "Nuevo Item",
+"ITEM_CREATE_CHOOSE_IMAGE": "Añadir Imagen",
+
+"CARDS_TITLE": "Social",
+
+"SEARCH_TITLE": "Buscar",
+"ITEM_NAME_PLACEHOLDER" : "Nombre",
+"ITEM_ABOUT_PLACEHOLDER" : "Comentario",
+
+"DONE_BUTTON" : "Confirmar",
+"CANCEL_BUTTON" : "Cancelar",
+"DELETE_BUTTON" : "Eliminar",
+
+"SEARCH_PLACEHOLDER" : "Podemos buscar en la lista de items p.e. \"Fuego\"",
+
+"TAB1_TITLE": "Ir a HomePage",
+"TAB2_TITLE": "Ir a SubPage2",
+"TAB3_TITLE": "Ir a ListPage",
+"TAB4_TITLE": "Ir a Items",
+
+"SLIDE1_TITLE": "El <b>Fuego</b>",
+"SLIDE2_TITLE": "El <b>Aire</b>",
+"SLIDE3_TITLE": "El <b>Agua</b>",
+"SLIDE4_TITLE": "La <b>Tierra</b>",
+"SLIDE5_TITLE": "El Quinto Elemento",
+
+
+"SLIDE1_DESCRIPTION": "Es uno de los más importantes de los cuatro.", 
+"SLIDE2_DESCRIPTION": "nos mantiene con vida, si se aprende a respirar de forma pausada se puede usar como método de relajación",
+"SLIDE3_DESCRIPTION": "está relacionado con la energí­a, con la naturaleza y con sus propiedades de limpieza.",
+"SLIDE4_DESCRIPTION": "es vital para la producción de los alimentos, para la construcción y mantenimiento de mejores cuerpos fí­sicos.",
+"SLIDE5_DESCRIPTION": ""
+}

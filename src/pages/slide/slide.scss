@@ -1,0 +1,30 @@
+page-slide{
+    .toolbar-background {
+        background: transparent;
+        border-color: transparent;
+    }
+    .slide-zoon{
+        height: 100%;
+    }
+    .slide-title{
+        margin-top: 2.6rem;
+    }
+    .slide-image{
+        max-height: 60%;
+        max-height: 70%;
+        margin: 32px 0;
+    }
+    b{
+        font-weight: 500;
+    }
+    p{
+        padding: 0, 36px;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #60646b;
+
+        b{
+            color: #000000;
+        }
+    }
+}
