@@ -34,7 +34,7 @@ export class ListMasterPage {
     search() {
         this.navCtrl.push(SearchPage, {});
     }
-    openItem(item: Item) {
+    openItem(item) {
         this.navCtrl.push(ItemDetailPage, { item: item });
     }
 }
